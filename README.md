@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm glad to join GitHub's family.😎   
+"MosTransistor" is something I like, so it used to my GitHub nickname🤣. my real name is **Jun Wang**
+
+- 👨‍💻 I'm cuurently working on Chip Design
+- 
+
+
+
 <!--
 **MosTransistor/MosTransistor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
