@@ -3,7 +3,7 @@
 I'm glad to join GitHub's family.😎   
 "MosTransistor" is something I like, so it used to my GitHub nickname🤣. my real name is **Jun Wang**
 
-- 👨‍💻 I'm cuurently working on Chip Design
+- 👨‍💻 I'm currently working on Chip Design
 - 
 
 
